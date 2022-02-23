@@ -1,4 +1,4 @@
-1. На локальном репозитории сделать ветки для:       
+1. На локальном репозитории сделать ветки для:       
 - Postman                                                                   // git branch Postman
 - Jmeter                                                                    // git branch Jmeter
 - CheckLists                                                                // git branch CheckLists
@@ -29,4 +29,3 @@
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main      // Сreate pull Request
 
-10. Синхронизировать Внешнюю и Локальную ветки Main                         // git pull
