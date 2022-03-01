@@ -29,3 +29,4 @@
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main      // Сreate pull Request
 
+Отправить на проверку - ментору.
