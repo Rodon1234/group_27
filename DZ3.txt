@@ -27,6 +27,6 @@
 
 8. Запушить структуру на внешний репозиторий                                // git push --set-upstream origin CheckLists
 
-9. На внешнем репозитории сделать Pull Request ветки CheckLists в main      // Сreate pull Request
+9. На внешнем репозитории сделать Pull Request ветки CheckLists в main      // Сreate pull Reques
 
 Отправить на проверку - ментору.
