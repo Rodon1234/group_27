@@ -211,6 +211,21 @@ response:
                      'u_age': age,
                      'u_salary_5_years': salary * 4.2}
           }           
-
+{
+    "person": {
+        "u_age": 24,
+        "u_name": [
+            "Oleg",
+            900,
+            24
+        ],
+        "u_salary_5_years": 3780.0
+    },
+    "qa_salary_after_1.5_year": 2970.0,
+    "qa_salary_after_12_months": 2430.0,
+    "qa_salary_after_3.5_years": 3420.0,
+    "qa_salary_after_6_months": 1800,
+    "start_qa_salary": 900
+}
 
           
