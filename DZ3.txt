@@ -25,8 +25,3 @@
 7. В ветке CheckLists набросать структуру чек листа.                        // git checkout CheckLists
                                                                             // cat > chek_list.txt
 
-8. Запушить структуру на внешний репозиторий                                // git push --set-upstream origin CheckLists
-
-9. На внешнем репозитории сделать Pull Request ветки CheckLists в main      // Сreate pull Reques
-
-Отправить на проверку - ментору
